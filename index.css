@@ -1,0 +1,11 @@
+/* Write your code here. */
+.main-bg {
+  background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.card-container {
+  background-color: #cffafe;
+  border-radius: 10px;
+}
